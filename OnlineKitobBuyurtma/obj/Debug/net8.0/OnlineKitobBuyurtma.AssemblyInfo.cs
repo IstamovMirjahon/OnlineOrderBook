@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OnlineKitobBuyurtma")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+55eb70294fdb83836e69a9c4e01171fb12bae904")]
 [assembly: System.Reflection.AssemblyProductAttribute("OnlineKitobBuyurtma")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OnlineKitobBuyurtma")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
