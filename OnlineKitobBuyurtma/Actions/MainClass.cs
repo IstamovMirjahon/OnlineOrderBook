@@ -9,6 +9,7 @@ namespace OnlineKitobBuyurtma.Actions
     public class MainClass
     {
         // Assalomu alaykum
+        // Valeykum assalom
         List<Book> books = new List<Book>();
         List<(string, string, int, string, string, string)> myList = new List<(string, string, int, string, string, string)>();
         public MainClass()
