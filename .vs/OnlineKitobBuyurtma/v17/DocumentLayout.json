@@ -32,7 +32,7 @@
               "RelativeDocumentMoniker": "OnlineKitobBuyurtma\\Actions\\MainClass.cs",
               "ToolTip": "D:\\PDP academy\\C# darslari\\OnlineKitobBuyurtma\\OnlineKitobBuyurtma\\Actions\\MainClass.cs",
               "RelativeToolTip": "OnlineKitobBuyurtma\\Actions\\MainClass.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAbAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-06T14:34:43.408Z",
               "EditorCaption": ""
@@ -47,8 +47,7 @@
               "RelativeToolTip": "OnlineKitobBuyurtma\\Actions\\Book.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-06T14:34:26.23Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-06T14:34:26.23Z"
             },
             {
               "$type": "Document",
@@ -60,8 +59,7 @@
               "RelativeToolTip": "OnlineKitobBuyurtma\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-06T14:32:59.412Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-04-06T14:32:59.412Z"
             }
           ]
         }
