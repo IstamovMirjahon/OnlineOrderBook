@@ -11,4 +11,4 @@ namespace OnlineKitobBuyurtma
         }
     }
 }
-//Mirjahon edit this project zaybal bla
+//Mirjahon edit this project zaybal bla ukam
