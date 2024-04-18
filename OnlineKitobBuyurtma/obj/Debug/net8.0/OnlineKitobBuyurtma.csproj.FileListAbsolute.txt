@@ -1,0 +1,14 @@
+D:\PDP academy\C# darslari\OnlineKitobBuyurtma\OnlineKitobBuyurtma\bin\Debug\net8.0\OnlineKitobBuyurtma.exe
+D:\PDP academy\C# darslari\OnlineKitobBuyurtma\OnlineKitobBuyurtma\bin\Debug\net8.0\OnlineKitobBuyurtma.deps.json
+D:\PDP academy\C# darslari\OnlineKitobBuyurtma\OnlineKitobBuyurtma\bin\Debug\net8.0\OnlineKitobBuyurtma.runtimeconfig.json
+D:\PDP academy\C# darslari\OnlineKitobBuyurtma\OnlineKitobBuyurtma\bin\Debug\net8.0\OnlineKitobBuyurtma.dll
+D:\PDP academy\C# darslari\OnlineKitobBuyurtma\OnlineKitobBuyurtma\bin\Debug\net8.0\OnlineKitobBuyurtma.pdb
+D:\PDP academy\C# darslari\OnlineKitobBuyurtma\OnlineKitobBuyurtma\obj\Debug\net8.0\OnlineKitobBuyurtma.GeneratedMSBuildEditorConfig.editorconfig
+D:\PDP academy\C# darslari\OnlineKitobBuyurtma\OnlineKitobBuyurtma\obj\Debug\net8.0\OnlineKitobBuyurtma.AssemblyInfoInputs.cache
+D:\PDP academy\C# darslari\OnlineKitobBuyurtma\OnlineKitobBuyurtma\obj\Debug\net8.0\OnlineKitobBuyurtma.AssemblyInfo.cs
+D:\PDP academy\C# darslari\OnlineKitobBuyurtma\OnlineKitobBuyurtma\obj\Debug\net8.0\OnlineKitobBuyurtma.csproj.CoreCompileInputs.cache
+D:\PDP academy\C# darslari\OnlineKitobBuyurtma\OnlineKitobBuyurtma\obj\Debug\net8.0\OnlineKitobBuyurtma.dll
+D:\PDP academy\C# darslari\OnlineKitobBuyurtma\OnlineKitobBuyurtma\obj\Debug\net8.0\refint\OnlineKitobBuyurtma.dll
+D:\PDP academy\C# darslari\OnlineKitobBuyurtma\OnlineKitobBuyurtma\obj\Debug\net8.0\OnlineKitobBuyurtma.pdb
+D:\PDP academy\C# darslari\OnlineKitobBuyurtma\OnlineKitobBuyurtma\obj\Debug\net8.0\OnlineKitobBuyurtma.genruntimeconfig.cache
+D:\PDP academy\C# darslari\OnlineKitobBuyurtma\OnlineKitobBuyurtma\obj\Debug\net8.0\ref\OnlineKitobBuyurtma.dll

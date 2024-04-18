@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PDP academy\\C# darslari\\OnlineKitobBuyurtma\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E48B857E-6DE6-4D2D-A1B2-C583D80E9625}|OnlineKitobBuyurtma\\OnlineKitobBuyurtma.csproj|d:\\pdp academy\\c# darslari\\onlinekitobbuyurtma\\onlinekitobbuyurtma\\actions\\mainclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E48B857E-6DE6-4D2D-A1B2-C583D80E9625}|OnlineKitobBuyurtma\\OnlineKitobBuyurtma.csproj|solutionrelative:onlinekitobbuyurtma\\actions\\mainclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E48B857E-6DE6-4D2D-A1B2-C583D80E9625}|OnlineKitobBuyurtma\\OnlineKitobBuyurtma.csproj|d:\\pdp academy\\c# darslari\\onlinekitobbuyurtma\\onlinekitobbuyurtma\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E48B857E-6DE6-4D2D-A1B2-C583D80E9625}|OnlineKitobBuyurtma\\OnlineKitobBuyurtma.csproj|solutionrelative:onlinekitobbuyurtma\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E48B857E-6DE6-4D2D-A1B2-C583D80E9625}|OnlineKitobBuyurtma\\OnlineKitobBuyurtma.csproj|d:\\pdp academy\\c# darslari\\onlinekitobbuyurtma\\onlinekitobbuyurtma\\actions\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E48B857E-6DE6-4D2D-A1B2-C583D80E9625}|OnlineKitobBuyurtma\\OnlineKitobBuyurtma.csproj|solutionrelative:onlinekitobbuyurtma\\actions\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainClass.cs",
+              "DocumentMoniker": "D:\\PDP academy\\C# darslari\\OnlineKitobBuyurtma\\OnlineKitobBuyurtma\\Actions\\MainClass.cs",
+              "RelativeDocumentMoniker": "OnlineKitobBuyurtma\\Actions\\MainClass.cs",
+              "ToolTip": "D:\\PDP academy\\C# darslari\\OnlineKitobBuyurtma\\OnlineKitobBuyurtma\\Actions\\MainClass.cs",
+              "RelativeToolTip": "OnlineKitobBuyurtma\\Actions\\MainClass.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAMAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T14:34:43.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Book.cs",
+              "DocumentMoniker": "D:\\PDP academy\\C# darslari\\OnlineKitobBuyurtma\\OnlineKitobBuyurtma\\Actions\\Book.cs",
+              "RelativeDocumentMoniker": "OnlineKitobBuyurtma\\Actions\\Book.cs",
+              "ToolTip": "D:\\PDP academy\\C# darslari\\OnlineKitobBuyurtma\\OnlineKitobBuyurtma\\Actions\\Book.cs",
+              "RelativeToolTip": "OnlineKitobBuyurtma\\Actions\\Book.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T14:34:26.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\PDP academy\\C# darslari\\OnlineKitobBuyurtma\\OnlineKitobBuyurtma\\Program.cs",
+              "RelativeDocumentMoniker": "OnlineKitobBuyurtma\\Program.cs",
+              "ToolTip": "D:\\PDP academy\\C# darslari\\OnlineKitobBuyurtma\\OnlineKitobBuyurtma\\Program.cs",
+              "RelativeToolTip": "OnlineKitobBuyurtma\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T14:32:59.412Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
